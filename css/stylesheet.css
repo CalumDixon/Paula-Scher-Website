@@ -1,0 +1,587 @@
+
+/* ---- CSS RESET ---- */
+
+* {
+    padding: 0;
+    margin: 0;
+    font-size:100%;
+    line-height: 1.5em;}
+
+/* ---- Base Font and Background image ---- */
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(background-image.jpg);
+    background-repeat: no-repeat;}
+
+/* ---- Header CSS containing Introduction, Title and Sub title ---- */
+
+header {
+    display: flex;
+    flex-flow: column;
+    width:100%;
+    box-sizing: border-box;
+    padding-left: 12em;}
+
+/* ---- Article CSS assigning base font size and alligning content to the center of the page ---- */
+
+article {
+    width:60%;
+    display: flex;
+    flex-flow: column;
+    margin: 0 auto;
+    font-size:1.2em;}
+
+/* ---- Colour for paragraph text in article ---- */
+
+article p {
+    color:#111625;}
+
+/* ---- Font family and colour for Headinings ---- */
+
+h1, h2, h3 {
+    font-family: roboto slab, serif;
+    color:#ca0817;}
+
+/* ---- Font size, colour and margins for title insde header ---- */
+
+.titleheader {
+    font-size:9.591em;
+    margin-top: 0.3em;
+    color:#111625;
+}
+
+/* ---- Font size and margins for subtitle inside header ---- */
+
+.subtitleheader {
+    font-size:2.599em;
+    margin-bottom: 3em;
+}
+
+/* ---- Font size and colour for introduction heading within header ---- */
+
+.introduction {
+    font-size:2.599em;
+    color:#111625;}
+
+/* ---- Font size, width and margins for introduction paragraph ---- */
+
+.introductionpara {
+    font-size:1.697em;
+    margin-bottom: 8em;
+    width:50%;}
+
+/* ---- Font size and Margins for any heading 2's outside of header ---- */
+
+h2 {
+    font-size:2.399em;
+    margin-bottom: 1em;}
+
+/* ---- Font size and margins for any heading 3's outisde of header ---- */
+
+h3 {
+    font-size:1.697em;
+    margin-bottom: 1em;}
+
+/* ---- Margins for any paragraphs outside of header ---- */
+
+p{
+    margin-bottom: 1em;}
+
+/* ---- Colour of beackground and text within footer, padding withing footer and margin pushing footer away from content above ---- */
+
+footer {
+    background:#111625;
+    color: white;
+    padding-top:5em;
+    padding-bottom: 5em;
+    margin-top: 5em;}
+
+/* ---- Centering refrences within footer and assigning a width to stop the allowing space for footer to breath ---- */
+
+.refrences {
+    width:60%;
+    margin: 0 auto;}
+
+/* ---- Assigning colour to heading for refrences to contrast against diffrent colour background ---- */
+
+.refrences h2 {
+    color:white;}
+
+/* ---- Applying small font size for less important information and wrap text allow words to fit inside assigned width ---- */
+
+.refrences p {
+    font-size:0.7em;
+    word-wrap: break-word;}
+
+/* ---- CSS for block quotes, making block quotes Italic, adjusting font size to be larger, margins seperating it from paragraphs, dark grey colour and hanging punctuation to make the block quote more visually appealing ---- */
+
+blockquote {
+    font-style: italic;
+    font-size:1.313em;
+    margin:2em;
+    color:#808080;
+    hanging-punctuation:first;
+    text-indent:-0.4em;}
+
+/* ---- Padding for life so far section ---- */
+
+.life-so-far {
+    padding-top: 3em;}
+
+/* ---- Padding for Public Theater section ---- */
+
+.public-theater {
+    padding-top: 3em;}
+
+/* ---- Padding for Atlantic Theater section ---- */
+
+.atlantic-theater {
+    padding-top: 3em;}
+
+/* ---- Padding for New Jersey Performing Arts Center section ---- */
+
+.njpac {
+    padding-top: 3em;}
+
+/* ---- Padding for Friends of High Line section ---- */
+
+.high-line {
+    padding-top: 3em;}
+
+/* ---- Padding for NYC beaches section ---- */
+
+.nyc-beaches {
+    padding-top: 3em;}
+
+/* ---- Padding for Map paintings section ---- */
+
+.maps {
+    padding-top: 3em;}
+
+/* ---- Padding for my thoughts on Scher section ---- */
+
+.my-opinion {
+    padding-top: 3em;}
+
+/* ---- CSS for centering images and giving them margins to seperate them from paragraphs below ---- */
+
+img { 
+    display:block;
+    margin: 0 auto;
+    padding:0;
+    max-width: 100%;
+    margin-bottom: 3em;}
+
+/* ---- Navigation bar CSS styling ---- */
+
+nav { 
+    background-color:white;
+    position:static;
+    left:0;
+    margin;0;
+    top:0;
+    width:100%;
+    padding:1em 0;
+    z-index:1;
+    font-weight: 700;
+    font-family: Open Sans, sans-serif;}
+
+/* ---- Making all nav bar text capitalised, adjusting the kerning of the nav bar and alling the text to the center of the page ---- */
+
+nav ul {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;}
+
+/* ---- Using an inline format to allow for list items to be beside each other and adjusting the spacing between each list item ---- */
+
+nav ul li {
+    display: inline;
+    margin:15px;}
+
+/* ---- Removing decoration from links and applying a dark navy colour ---- */
+
+nav a:link {
+    color:#111625;
+    text-decoration: none;}
+
+/* ---- Apllying dark navy colour to all links ---- */
+
+a {
+    color:#111625;}
+
+/* ---- applying same navy to visted links to stop links turning purple ---- */
+
+nav a:visted {
+    color:#111625;
+    text-decoration: none;}
+
+/* ---- Assigning red colour when linkis hovered over to give feedback and using a transtion to make the change more gradual ---- */
+
+nav a:hover {
+    transition: color 200ms ease-out 0s;
+    color:#e21c2b;
+    text-decoration: none;}
+
+/* ---- Media Query telling page what to change when page is less than 1600px wide ---- */
+
+@media (max-width:1600px) {
+    
+/* ---- Background image is set to change to a width of 1600px (large screen laptop) wide ---- */
+    
+    body{
+        background-image: url(backgroundimage-xl-laptop.jpg);
+        background-repeat: no-repeat;}
+    
+/* ---- Title font size is set to change to 8em ---- */
+    
+    .titleheader {
+        font-size:8em;}
+    
+/* ---- Subtitle font size is set to change to 2.2em and margin is set to 1em ---- */
+    
+    .subtitleheader {
+        font-size:2.2em;
+        margin-bottom: 1em;}
+    
+/* ---- Nav bar elements font size is set to change to 0.9em ---- */   
+    
+    .nav {
+        font-size:0.9em;}
+    
+/* ----  Space between each nav bar element changes to 15px ---- */    
+    
+    nav ul li {
+        margin:15px;}
+    
+}
+
+/* ---- Media Query telling page what to change when page is less than 1366px (screen size of laptop) wide ---- */
+
+@media (max-width:1366px) {
+    
+    .header {
+    box-sizing: border-box;
+        padding-left: 0;
+        margin-left:0;}
+
+/* ---- Background image changes to a width of 1366px to match screen size ---- */   
+    
+    body {
+        
+        background-image: url(backgroundimage-laptop-large.jpg);
+        background-repeat: no-repeat;}
+    
+/* ---- Font size of title reduces to 7em and margin is implementation of negative margin to bring subtitle closer ---- */
+    
+    .titleheader{
+        font-size: 7em;
+        margin-bottom: -0.2em;}
+    
+/* ---- subtitle font size reduceds to 1.9em ---- */
+    
+    .subtitleheader{
+        font-size:1.9em;}
+    
+/* ---- introduction title font size changes to 1.9em ---- */
+    
+    .introduction {
+        font-size:  1.9em;}
+    
+/* ---- introduction paragraph font size chages to 1.3em ---- */
+    
+    .introductionpara {
+        font-size: 1.3em;}
+    
+/* ---- Margin of nav bar elements reduces to 10px wide and the letter spacing reduces from 4px to 2px ---- */    
+    
+    nav ul li {
+        margin:10px;
+        letter-spacing: 2px;}
+    
+/* ---- Block quote font size changes to 1.212em ----*/
+    
+    blockquote {
+        font-size:1.212em;}
+    
+/* ---- Paragraph font size is changed to 1em ---- */
+    
+    p{
+        font-size:1em;} 
+    
+}
+
+/* ---- Media Query telling page what to change when page is less than 1280px (screen size of laptop) wide ---- */
+
+@media (max-width:1280px) {
+    
+/* ---- background image size adjusted to match screen size ---- */
+    
+    body {
+        background-image: url(backgroundimage-laptop.jpg);}
+    
+/* ---- title margin removed ---- */
+    
+    .titleheader {
+        margin-top:0em;}
+    
+/* ---- Article tag assigned a width of 75% ---- */
+    
+    article {
+        width:75%;}
+    
+/* ---- Refrence section assigned a width of 75% ---- */
+    
+    .refrences{
+        width:75%;}
+    
+/* ---- Nav bar letter spacing reduced to 0px and element spacing reduced to 5px, font size set to 1em ---- */
+    
+     nav ul li {
+        letter-spacing: 0px;
+        margin:5px;
+        font-size:1em;}
+    
+}
+
+/* ---- Media Query telling page what to change when page is less than 1024px (screen size of small laptop or tablet) wide ---- */
+
+@media (max-width:1024px) {
+    
+/* ---- Background image is removed ---- */    
+
+    body {
+        background-image:none;}
+    
+/* ---- Introduction section of site is given a dark navy background to seperate it from other content ---- */
+    
+    .introsection {
+        background-color: #111625;
+        color:white;
+    }
+    
+/* ---- Content within header is centered (includes title and subtitle) ---- */
+    
+    header {
+        width:100%;
+        margin: 0 auto;
+        padding: 0;
+        display: flex;
+        flex-flow: column;}
+    
+/* ---- font size of title changes to 7em and margin 0 to bottom, right and left with top havign a margin of 0.5em---- */
+    
+    .titleheader {
+        margin:0 auto;
+        font-size:7em;
+        margin-top:0.5em;}
+    
+/* ---- font size of subtitle changes to 2em  margin 0 to top, right and left with bottom havign a margin of 2em ---- */
+    
+    .subtitleheader {
+        margin:0 auto;
+        font-size:2em;
+        margin-bottom:2em}
+    
+/* ---- Introduction title margins changed. a 75% width is appiled. Font size of 2.5em is given ---- */
+    
+    .introduction {
+        margin:0 auto;
+        font-size:2.5em;
+        margin-top:2em;
+        margin-bottom:1em;
+        width:75%;
+        color:white;}
+    
+/* ---- introduction paragraph margins changed . 75%width appiled. Font size changed to 1.4em ---- */
+    
+    .introductionpara {
+        margin:0 auto;
+        font-size:1.4em;
+        width:75%;
+        margin-top:1em;
+        margin-bottom:4em;}
+    
+/* ---- Nav element letter spacing is reduced to 0px, margin (element spacing) reduced to 5px, font-size reduced to 0.8em ---- */
+    
+    nav ul li {
+        letter-spacing: 0px;
+        margin:5px;
+        font-size:0.8em;}
+    
+/* ---- Refrence section font size changed to 0.8em and line height changed to 2em to allow for easier reading due to small font size ---- */
+    
+    .refrences {
+        font-size:0.8em;
+        line-height:2em;}
+    
+/* ---- h2 elements font size changed to 2.3em ---- */
+    
+    h2 {
+        font-size:2.3em;}
+    
+/* ---- h2 elements font size changed to 2.3em ---- */
+    
+    article h2 {
+        font-size:2.3em;}
+    
+/* ---- Paragraph elements font size changed to 1em ---- */
+    
+    article p {
+        font-size:1em;}
+      
+}
+
+/* ---- Media Query telling page what to change when page is less than 800px (tablet or large phone screen size) wide ---- */
+
+@media (max-width:800px) {
+    
+/* nav bar is to be removed ---- */
+    
+     nav{
+        display:none;}
+    
+/* ---- Article tag assigned a width of 85%, due to small screen size will allow content to be read easily ---- */
+
+    article {
+        width:85%;}
+    
+/* ---- title font size reduced to 5.6em ---- */
+    
+    .titleheader {
+        font-size:5.6em;}
+    
+/* ---- subtitle font size reduced to 1.6em ---- */
+    
+    .subtitleheader {
+        font-size:1.6em;}
+    
+/* ---- paragraph font size reduced to 0.9em ---- */
+    
+    article p {
+        font-size:0.9em;}
+    
+/* ---- h2 element font size reduced to 1.6em ---- */
+    
+    article h2 {
+        font-size:1.6em;}
+    
+/* ---- h3 elements font size reduced to 1.4em ---- */
+    
+    article h3 {
+        font-size:1.4em;}
+    
+/* ---- block quote font size set to 1.1em, margin on left and right sides set to 1em and top and bottom set to 1.5em ---- */
+    
+    blockquote{
+        font-size:1.1em;
+        margin-left:1em;
+        margin-right:1em;
+        margin-top:1.5em;
+        margin-bottom: 1.5em;}
+    
+/* ---- Introduction paragraph font size set to 1.1em and width set to 85% ---- */
+    
+    .introductionpara{
+        width:85%;
+        font-size:1.1em;}
+    
+/* ---- introduction title given a font size of 1.8em and width set to 85% ---- */
+    
+    .introduction {
+        width:85%;
+        font-size:1.8em;}
+    
+/* ---- refrence section set a width of 85% and font size set to 1em ---- */
+    
+    .refrences {
+        font-size:1em;
+        width:85%;}
+
+}
+
+/* ---- Media Query telling page what to change when page is less than 600px (phone screen size) wide ---- */
+
+@media (max-width:600px) {
+    
+/* ---- title font size set to 4em ---- */
+    
+    .titleheader {
+        font-size:4em;}
+    
+/* ---- subtitle font size set to 1.2em ---- */
+    
+    .subtitleheader {
+        font-size:1.2em;}
+    
+/* ---- paragraph font size set to 0.8em ---- */
+    
+    article p {
+        font-size:0.8em;}
+    
+/* ---- introduction paragraph font size set to 1em ---- */
+    
+    .introductionpara{
+        font-size:1em;}  
+    
+}
+
+/* ---- Media Query telling page what to change when page is less than 480px (phone screen size) wide ---- */  
+
+@media (max-width:480px) {
+    
+/* ---- title font size set to 3.5em and top and bottom margin assigned to 1em ---- */
+    
+    .titleheader {
+        font-size:3.5em;
+        margin-top:1em;
+        margin-bottom: 1em;}
+    
+/* ---- subtitle is removed from page ---- */
+    
+    .subtitleheader {
+        display:none;}
+    
+/* ---- font size of block quote set to 1em and margins on left and right set to 0em ---- */
+    
+    blockquote {
+        font-size:1em;
+        margin-right:0;
+        margin-left:0;}
+    
+}
+
+/* ---- Media Query telling page what to change when page is less than 360px (phone screen size) wide ---- */  
+
+@media (max-width:360px) {
+    
+/* ---- title font size set to 2.5em ---- */    
+    
+    .titleheader {
+        font-size:2.5em;}
+    
+/* ---- font size of introduction paragraph set to 0.85em ---- */
+    
+    .introductionpara {
+        font-size:0.85em;}
+    
+/* ---- paragraph font size set to 0.7em ---- */
+    
+    article p {
+        font-size:0.7em;}
+    
+/* ---- blockquote font size reduced to 0.8em ---- */
+    
+    blockquote {
+        font-size:0.8em;}
+    
+/* refrence section paragraph font size set to 0.5em ---- */  
+    
+    .refrences p {
+        font-size:0.5em;}
+    
+}
+
+
+
