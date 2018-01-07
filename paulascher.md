@@ -1,13 +1,13 @@
-#Paula Scher
+# Paula Scher
 
-###“Master Conjurer Of The Instantly Familiar”
+### “Master Conjurer Of The Instantly Familiar”
 
-##Introduction
+## Introduction
 
-*Paula Scher is a famous contemporary graphic designer that has been consistently at the forefront of the design industry for the past four decades. Scher has spend half of this time as a member of the Pentagram New York office which she joined in 1991 as its first female artist. She is known for her work within brand identities, environmental graphics and most famously her work with typography.*
+**Paula Scher is a famous contemporary graphic designer that has been consistently at the forefront of the design industry for the past four decades. Scher has spend half of this time as a member of the Pentagram New York office which she joined in 1991 as its first female artist. She is known for her work within brand identities, environmental graphics and most famously her work with typography.**
 
 
-##Life So Far
+## Life So Far
 
 On the 6th of October 1948 Paula Scher was born in Virginia, USA. She was moved frequently to Philadelphia and Washington DC before settling in Silver Spring, Maryland. Scher’s father was a engineer for the United States Geological Survey; he had invented a device for distortion free aerial photos, This was an important factor that led to Scher painting her own maps.
 
@@ -20,9 +20,9 @@ In the Late 1960’s Scher started studying in the Tyler School of Art in Pennsy
 
 After graduating from Tyler School of Art in 1970, Scher was hired to work in the advertising and promotional department of CBS records. Although Scher wanted design covers for music and not promotional material so she went to work for Atlantic Records which she worked with for 1 year before returning to CBS records as their East Coast Art Director.After working for CBS records for ten years in 1982 Scher decided to create her own business alongside a past friend from school named Terry Koppel. Koppel & Scher continued to work together for seven years in 1990 when a recession caused a lack of work coming in, Koppel decided to leave for a studio position in Esquire while Scher continued to run the business up until 1991. In 1991 Scher decided to disband her company when Woody Pirtle a partner at pentagram approached Scher and asked her to join the Pentagram collaborative.
 
-##Works
+## Works
 
-###Public Theater
+### Public Theater
 
 The Public Theater approached Scher in 1994 to create to fix their brand identity. At the time the Public Theater had a brand identity issue where they were known between multiple different names, it was the “The Public Theater”, “The Joseph Papp Public Theater” and some people knew the only knew of the Public Theater from Shakespeare in Central Park. Scher was tasked with fixing the identity and of making all aspects of the Public theater feel like it was of one. 
 
@@ -33,7 +33,7 @@ Scher’s inspiration for the Public Theater’s logo was found in “Rob Roy Ke
 Over time Scher has adjusted the identity of the Public Theater’s identity twice after its original creation. The original logo was created in 1994 using the typeface Morgan and had the word “Public” in black written vertically in varying type widths, it would end with the word “Theater” written horizontally capping the end of the logo. In 2005 the logo was recreated using the typeface Akzidenz Grotesk and the word “Theater” was removed from the logo. Most recently in 2008 the logo was adjusted again; the typeface was changed again this time to Knockout, The logo was now written horizontally and the logo was now capped at the end with a full stop. 
 
 
-###Atlantic Theater Company
+### Atlantic Theater Company
 
 In 2015 Paula Scher was tasked with creating the brand identity for one of the most influential theater companies in new york; “The Atlantic Theater Company.” The theater are well known for producing plays that have a broad approach to theater and Scher wanted to reflect this with their brand identity. 
 
@@ -41,10 +41,10 @@ In 2015 Paula Scher was tasked with creating the brand identity for one of the m
 The brief given to scher gave her two problems that needed to be solved, At the time the theater had to make the decision to promote themselves as an institution or their upcoming productions but by making this decision they would ultimately leave one or the other, unseen and potentially hurt their sales. The second problem that the theater faced was that in most cases no images would exist that could be used to promote their productions as they were as they were yet to be staged or photographed. 
 
 
-The logo Scher created was an abstract A shape that could easily be recognisable as the letter A but also be perceived as a multitude of other things such as a spotlight or megaphone. The logo also had a wordmark version where all A’s were replaced using the Emblem logo Scher had created and all other letters used the compact sans serif typeface Tungsten.  Scher solved the issue of being unable to decide between promoting the institution or the upcoming productions by creating a logo that was able to be incorporated into the design of the production advertisements, we can see this in the 2015–2016 season poster that promoted multiple productions and used the A shape emblem in a similar way to Alexander Rodchenko's “books (please) in all branches of knowledge” as Scher uses the A shape in similar way to make the design seem like it is yelling which resonates with the loud and proud attitude of New York while also being unique. The logo also solves the problem of the lack of imagery at hand for use in advertisements by providing an alternative to imagery in the form of a shape that can be used to create abstract illustrations or to be used as a stage for illustrative drawings.
+The logo Scher created was an abstract A shape that could easily be recognisable as the letter A but also be perceived as a multitude of other things such as a spotlight or megaphone. The logo also had a wordmark version where all A’s were replaced using the Emblem logo Scher had created and all other letters used the compact sans serif typeface Tungsten.  Scher solved the issue of being unable to decide between promoting the institution or the upcoming productions by creating a logo that was able to be incorporated into the design of the production advertisements, we can see this in the 2015–2016 season poster that promoted multiple productions and used the A shape emblem in a similar way to Alexander Rodchenko's [“books (please) in all branches of knowledge”](https://www.artsy.net/artwork/alexander-rodchenko-books-please-in-all-branches-of-knowledge) as Scher uses the A shape in similar way to make the design seem like it is yelling which resonates with the loud and proud attitude of New York while also being unique. The logo also solves the problem of the lack of imagery at hand for use in advertisements by providing an alternative to imagery in the form of a shape that can be used to create abstract illustrations or to be used as a stage for illustrative drawings.
 
 
-###NJPAC
+### NJPAC
 
 Paula Scher was approached by Larry Goldman in 2000 by the New Jersey Performing Arts Center (NJPAC) to do environmental graphics for their building. Goldman showed Scher a building that he wanted her to work on it was an old rectory building built some time in the 1940’s. The building according scher looked “sadly institutional” claiming that the brown and beige colour scheme throughout the building was depressing and off putting. 
 Goldman explained that NJPAC had received funding to adapt the building into a high school for the performing arts. Goldman informed Scher that the budget for the renovation was extremely limited meaning that they could not renovate the school in any fancy ways; Goldman came to Scher to ask her if she would be able reinvent the exterior of the building to show that it was an inspiring place that would be inviting for those wanting to study the performing arts.
@@ -56,7 +56,7 @@ Scher decided the best action to take because of the limited budget would be to 
 The variation that Goldman chose was the idea of painting the building white and covering the building in white and yellow typography with black outlines, this typography showcased the different activities offered by the NJPAC by using related keywords to the NJPAC such as dance, poetry and drama. Scher approached creating the interior by creating patterns of chevrons, stripes and checkerboards to cover the floors of the building, a system of designs using the same patterns were created to cover radiators and fireplaces throughout the building. Scher then chose rehearsal room curtains in complementary colours for the designs in the rooms and had the NJPAC staffers go to Ikea and purchase furniture in same colour palette. 
 
 
-###Friends of the High Line
+### Friends of the High Line
 
 
 In 2000 Robert Hammond approached Pentagram looking for a retail identity for a company called Watch World which he was the marketing director for, Scher was interested in the job because she believed it would pay well and sent Hammond a proposal. Scher later heard back from Hammond when he asked here if he could speak to her about something private; Hammond had asked Scher if she would like to create a Brand Identity for an organisation named Friends of the Highline that's goal was the stop the city from deconstructing the 1.45 mile long abandoned highline railway system in new york and turn it into the only elevated park within New York. Scher initially had no interest in creating the brand but thought she would not get the Watch World job if she were to say no.
@@ -68,7 +68,7 @@ The logo Scher created was a simple letter H with two horizontal bars and the as
 With this newfound credibility Friends of the Highline had obtained seed money from the city of New York which they were able to put to use campaigning to raise money to recreate the highline into a tourist attraction. Over the course of the campaigning for 2–3 years Friends of the Highline were able to raise enough money to fund their project. Today the Highline has been converted in a public park like planned and  become the one of the most popular tourist attractions in New York.
 
 
-###NYC Beaches
+### NYC Beaches
 
 
 After Hurricane Sandy hit new york in 2012 it destroyed much of the boardwalk structures across the 14 miles of beach that took the brunt of the storm as well as displacing millions of tons of sand.
@@ -80,7 +80,7 @@ As part of the restoration project Scher had been hired to create what she calle
 The signage also connected emotionally with the community in the area by showing that despite the damage that sandy caused it was unable to take away the beauty of the beaches. It allowed the community to take pride in their portion of the beach as each photograph highlighted the unique beauty of each entrance to the beach because the view that the beach provided looked unique depending on which street you decided to enter it from.  There was so much pride pride taken from the signage system that Scher had created that the New York City Government created a Series of postcards that so that members of each town community could have their own miniature version of the sign that represented their portion of the beach.
 
 
-###Maps
+### Maps
 
 
 In the late 1990’s Paula Scher started to create bright, vibrant typographic maps of world ranging from world maps to its streets and neighbourhoods. Scher states that the reason she started to create her typography based maps was because in the late 1990’s everything she did became computerised she didn't use her hands to make anything in the past she cut, ripped and pasted, the loss of the physical involvement in the creation of her work was a huge loss for her and this prompted her to start painting.
@@ -104,7 +104,7 @@ When I chose Paula Scher as the subject for my essay I was already familiar with
 After researching Scher’s work further though I found the additional meaning and history behind the approach of each design and more importantly to me how it solved the problems that each design faced, for example I would have never imagined the user centred approach Scher had taken when creating the designs for the NYC beaches. It made me appreciate Scher’s work on a entirely new level, I got to see the consideration for people put behind each design.  when researching I found a quote that highlights this human approach to design from Scher herself. “There’s an emotional aspect to it, Design needs to take human behaviour into account.”
 
 
-##References
+## References
 
 
 Scher, Paula.(2002). Make it Bigger. United States, Princeton Architectural Press.  [Accessed 02/12/2017]
